@@ -19,3 +19,5 @@ tiktoken
 tqdm
 python-dotenv
 requests
+elevenlabs
+python-docx
